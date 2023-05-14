@@ -1,0 +1,17 @@
+h1 {
+    color: rgb(255, 0, 255);
+    font-family: monospace;
+}
+
+.content {
+    text-align: center;
+}
+
+.social {
+    font-family: monospace;
+    border: 1px solid magenta;
+    color: magenta;
+    display: inline-block;
+    padding: 12px;
+    border-radius: 4px;
+}
